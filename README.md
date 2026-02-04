@@ -46,5 +46,5 @@ I am a software developer focused on building scalable, resilient applications a
 
 ### 📫 Let's Connect!
 * 🌍 [ Website Link - Coming Soon!]
-* 💼 [LinkedIn](www.linkedin.com/in/lexmelara91)
+* 💼 [LinkedIn](https://www.linkedin.com/in/lexmelara91)
 * 📧 [lexmelara@gmail.com](mailto:lexmelara@gmail.com)
