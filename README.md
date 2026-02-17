@@ -3,11 +3,13 @@
 I am a software developer focused on building scalable, resilient applications and moving them to the cloud. Currently, I'm bridging the gap between high-quality code and robust infrastructure, with a particular interest in **Circular Economy** and **Logistics** tech.
 
 ### 🚀 What I’m Working On
-* **Zirkl0s:** Building a B2B circular resource marketplace using **NestJS** and **Next.js**.
-* **Cloud Evolution:** Leveling up my **Kubernetes** and **AWS/Digital Ocean** orchestration.
-* **Microservices Architecture:** Refining a micro-ecommerce engine built with **Spring Boot** and **Java**.
+
+- **Zirkl0s:** Building a B2B circular resource marketplace using **NestJS** and **Next.js**.
+- **Cloud Evolution:** Leveling up my **Kubernetes** and **AWS/Digital Ocean** orchestration.
+- **Microservices Architecture:** Refining a micro-ecommerce engine built with **Spring Boot** and **Java**.
 
 ### 🛠️ Tech Stack & Tools
+
 <p align="center">
   <b>Backend</b><br>
   <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -40,11 +42,13 @@ I am a software developer focused on building scalable, resilient applications a
 ---
 
 ### 📈 GitHub Stats
+
 ![My GitHub Stats](https://github-personal-stats-engine.vercel.app/api?username=l3x7&show_icons=true&theme=github_dark&layout=compact&hide=contribs)
 
 ---
 
 ### 📫 Let's Connect!
-* 🌍 [ Website Link - Coming Soon!]
-* 💼 [LinkedIn](https://www.linkedin.com/in/lexmelara91)
-* 📧 [lexmelara@gmail.com](mailto:lexmelara@gmail.com)
+
+- 🌍 [alexmelara.com](https://www.alexmelara.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lexmelara91)
+- 📧 [lexmelara@gmail.com](mailto:lexmelara@gmail.com)
